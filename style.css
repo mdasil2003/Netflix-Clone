@@ -189,7 +189,7 @@ input[type="radio"] {
 .faq small {
   font-size: 13px;
 }
-/* ---------------footer--------------- */
+/* ------------------------------------------footer Start---------------------------------------------- */
 
 .footer {
   padding: 50px 15% 10px;
@@ -228,7 +228,7 @@ input[type="radio"] {
   margin-top: 20px;
   margin-bottom: 10px;
 }
-
+/*************************************************************website responsive start***********************************************  */
 @media only Screen and (max-width: 600px) {
   .logo {
     width: 100px;
